@@ -24,8 +24,3 @@ This repository contains `.ows` workflow files for [Orange Data Mining](https://
 ```bash
 orange-canvas path/to/workflow.ows
 ```
-### Key Features  
-- Clear headers (`##`, `###`) for readability.  
-- Code block for CLI commands.  
-- Table for workflow listings.  
-- Emojis/icons for visual cues (optional).
